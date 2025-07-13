@@ -1,0 +1,11 @@
+CVE_ID,CVE_Published_Date,CVSS_Score,EPSS_Score,Exploitability_Score,Device_Criticality,IIoT_Integration_Level,Legacy_System_Dependency,System_Complexity,Operational_Impact_Score,Physical_Impact_Potential,Financial_Impact_Score,Regulatory_Impact_Score,Cascade_Effect_Score,Days_Until_First_Exploit,Exploit_Success_Rate,Nation_State_Threat_Level,Supply_Chain_Risk_Score,Attack_Complexity,Time_To_Patch_Release,Patch_Implementation_Complexity,Patch_Testing_Impact,Deployment_Risk,Detection_Complexity_Score,Mitigation_Effectiveness,Alert_Generation_Rate,False_Positive_Rate,Response_Time_Required,Industry_Sector,Industry_Sector_Risk,Operational_Technology_Impact,Access_Control_Level,Authentication_Requirements,Exploited,SECUREGRID_Score
+CVE-2023-1000,2023-04-25,2.7,0.3,6.08,2,3,4,2,3,1,3,2,2,10,0.497832795614104,1,2,5,61,4,1,4,5,0.617,57,0.262,12,Power Transmission,5,0,3,2,0,6.84
+CVE-2023-1001,2023-04-14,8.4,0.19064,3.27,3,0,3,2,4,2,5,1,2,1,0.2785767687186194,2,3,5,155,3,3,2,4,0.312,5,0.104,4,Oil and Gas,5,4,2,1,0,3.16
+CVE-2023-1002,2023-09-08,7.1,0.14908,0.95,3,3,4,5,4,2,1,3,4,277,0.4483563375361223,2,4,5,77,1,0,4,3,0.199,7,0.365,1,Water Treatment,4,4,3,2,0,2.74
+CVE-2023-1003,2023-07-27,7.8,0.79933,8.8,3,2,3,3,3,2,5,2,3,2,0.4479751331590756,2,1,3,86,2,3,5,3,0.031,51,0.282,4,Power Transmission,5,4,3,3,0,35.78
+CVE-2023-1004,2023-08-09,3.2,0.24681,0.65,3,1,3,4,4,2,3,3,3,74,0.3477373816547645,2,0,1,47,1,4,1,3,0.007,71,0.267,5,Chemical Processing,4,2,4,3,0,5.91
+CVE-2023-1005,2023-11-06,2.5,0.03964,8.58,1,2,0,1,4,1,3,0,1,218,0.4663152957816509,0,4,1,40,2,3,2,4,0.081,55,0.119,6,Power Generation,5,4,2,3,0,0.23
+CVE-2023-1006,2023-03-20,2.6,0.3,7.8,1,2,2,4,3,1,2,3,2,1,0.3797993079277973,0,0,2,167,2,3,2,1,0.517,1,0.498,12,Water Treatment,4,4,3,2,0,7.46
+CVE-2023-1007,2023-06-14,3.2,0.17457,9.79,3,1,3,1,4,2,5,1,2,43,0.4772247589627886,2,2,5,165,1,0,5,4,0.366,7,0.425,17,Building Automation,2,0,4,2,0,2.87
+CVE-2023-1008,2023-05-23,8.0,0.38033,4.85,2,1,4,4,2,2,1,0,3,3,0.3991683006918872,1,3,3,97,1,4,5,3,0.748,36,0.464,17,Building Automation,2,4,3,2,0,11.36
+CVE-2024-1009,2024-12-02,2.7,0.3,5.78,1,2,1,3,2,1,2,0,2,13,0.3094345940885812,0,4,2,99,3,0,5,4,0.511,56,0.314,20,Building Automation,2,5,2,2,0,6.84
