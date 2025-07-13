@@ -76,7 +76,7 @@ This script and dataset were developed using data and intelligence from the foll
 ## Citation
 If using this script in academic work, please cite:
 
-> Rosseini, K. (2024). *SECUREGRID Dataset Sorting and Validation Script* [Python code]. https://github.com/KRosseini/securegrid-validation
+> Rosseini, K. (2024). *SECUREGRID Dataset Sorting and Validation Script* [Python code]. [https://github.com/KRosseini/securegrid-validation](https://github.com/RedQueen11-Katya/securegrid-validation)
 
 ## License
 Provided for academic and research reproducibility under terms compatible with your institution’s guidelines. For any questions, please contact the repository owner.
