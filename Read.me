@@ -1,0 +1,28 @@
+# SECUREGRID Dataset Sorting and Validation Script
+
+## Overview
+This repository contains the Python script and dataset used to build and validate SECUREGRID,
+a SCADA/ICS-specific vulnerability prioritization model. The methodology integrates multiple
+authoritative frameworks and real-time threat intelligence.
+
+### Methodology references:
+- IEC 62443 (industrial security levels)
+- NIST SP 800-161 (supply chain risk)
+- IEEE reliability standards
+- Microsoft STRIDE threat modeling
+- MITRE ATT&CK for ICS (tactics, techniques, procedures)
+
+## Repository Contents
+- `securegrid_dataset_script.py`: Main Python script that:
+  - Loads the dataset
+  - Extracts and categorizes vulnerabilities by intelligence source
+  - Validates schema for all 35 engineered variables
+  - Calls FIRST.org EPSS API for exploitation probabilities
+  - Runs Anderson-Darling, KS, and Spearman tests
+- `SECUREGRID_Dataset_SAMPLE.csv`: Example dataset (10 rows) to demonstrate format.
+- `framework_mappings.json`: Maps each of the 35 variables to its authoritative framework source (e.g., IEC 62443, NIST, IEEE).
+- `source_columns_template.json`: Shows example CVEs linked to the data sources they were conceptually extracted from.
+- `requirements.txt`: Python packages needed.
+
+## Usage
+1. Clone this repository and move into its directory:

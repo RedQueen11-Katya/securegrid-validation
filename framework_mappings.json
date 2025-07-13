@@ -1,0 +1,63 @@
+{
+    "Device_Criticality": [
+        "IEC 62443",
+        "DOE C2M2"
+    ],
+    "Supply_Chain_Risk_Score": [
+        "NIST SP 800-161",
+        "ICS-CERT"
+    ],
+    "IIoT_Integration_Level": [
+        "IIC Reference Architecture"
+    ],
+    "Industrial_Protocol_Vulnerability": [
+        "IEC 62443"
+    ],
+    "Attack_Surface_Expansion": [
+        "STRIDE"
+    ],
+    "Operational_Technology_Impact": [
+        "DOE C2M2",
+        "ICS-CERT"
+    ],
+    "Access_Control_Level": [
+        "IEC 62443"
+    ],
+    "System_Complexity": [
+        "IEEE Reliability Standards"
+    ],
+    "Cascade_Effect_Score": [
+        "DOE C2M2"
+    ],
+    "Patch_Testing_Impact": [
+        "ICS-CERT Advisories"
+    ],
+    "Mean_Time_Between_Failures": [
+        "IEEE"
+    ],
+    "Recovery_Point_Objective": [
+        "Business Continuity Institute"
+    ],
+    "Exploitability_Score": [
+        "CVSS v3"
+    ],
+    "Exploit_Success_Rate": [
+        "Derived Historical Exploit Data"
+    ],
+    "Days_Until_First_Exploit": [
+        "ExploitDB Timelines"
+    ],
+    "Time_to_Patch_Release": [
+        "Kovacs (2017), Trend Micro"
+    ],
+    "Historical_Exploit_Flag": [
+        "MITRE ATT&CK for ICS",
+        "CISA KEV"
+    ],
+    "Nation_State_Threat_Level": [
+        "Dragos, Mandiant"
+    ],
+    "Threat_Actor_Attribution": [
+        "DOE, CISA, MITRE ATT&CK"
+    ]
+}

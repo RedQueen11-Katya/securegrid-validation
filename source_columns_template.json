@@ -1,0 +1,19 @@
+{
+    "Source_MITRE": [
+        "CVE-2023-1000",
+        "CVE-2023-1001"
+    ],
+    "Source_CISA": [
+        "CVE-2023-1002"
+    ],
+    "Source_ExploitDB": [
+        "CVE-2023-1003"
+    ],
+    "Source_FIRST": [
+        "CVE-2023-1004"
+    ],
+    "Source_Mandiant_Dragos": [
+        "CVE-2023-1001",
+        "CVE-2023-1003"
+    ]
+}
